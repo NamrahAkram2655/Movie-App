@@ -4,7 +4,8 @@ The Movie App is a React.js application designed to allow users to discover and 
 
 - **Movie Search**: Enables users to search for movies by title.
 - **Movie Details**: Provides detailed information about each movie, including synopsis, release date, and ratings.
-- **Favorites**: Allows users to save their favorite movies for quick access.
+- **Favorites**: Allows users to save their favorite movies for quick access.'
+- **view it** (https://movie-viewall.netlify.app/ ) 
 
 ## State Management
 
